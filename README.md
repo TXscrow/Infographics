@@ -1,0 +1,2 @@
+# Infographics
+Collection of infographics
